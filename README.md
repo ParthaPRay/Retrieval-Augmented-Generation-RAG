@@ -26,7 +26,8 @@ Retrieval-Augmented Generation (RAG) is there to save the hallucination problem 
 
 **With RAG**, the LLM provides more **responsible, reliable and less hallucinated responses**.
 
-![image](https://github.com/ParthaPRay/Retrieval-Augmented-Generation-RAG-/assets/1689639/1d90191d-0a2a-4454-afcf-49d13583d960)
+![image](https://github.com/ParthaPRay/Retrieval-Augmented-Generation-RAG-/assets/1689639/616223f9-d2c3-4878-a5b4-113c563d5950)
+
 
 
 
