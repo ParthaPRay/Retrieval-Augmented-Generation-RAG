@@ -23,3 +23,10 @@ Without RAG, an LLM can respond anything as below.
 
 With RAG, the LLM provides more responsible, reliable and less hallucinated responses.
 ![image](https://github.com/ParthaPRay/Retrieval-Augmented-Generation-RAG-/assets/1689639/1d90191d-0a2a-4454-afcf-49d13583d960)
+
+
+
+
+References
+
+1. https://www.youtube.com/watch?v=T-D1OfcDW1M&ab_channel=IBMTechnology
